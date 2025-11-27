@@ -1,4 +1,4 @@
-# R-Py 컴퓨팅: Homework 2
+# AI+X:R-Py컴퓨팅 : Homework 2
 
 ## PART1. mtcars 데이터에 대한 dplyr 및 Linear Regression
 
